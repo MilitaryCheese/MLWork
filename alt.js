@@ -1,1 +1,3 @@
-alert('xss for xss game');
+function(){
+   alert('xss for xss game');
+}
